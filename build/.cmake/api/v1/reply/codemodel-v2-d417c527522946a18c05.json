@@ -1,0 +1,137 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "pms",
+					"jsonFile" : "directory-pms-Debug-a5ef41657287b97b6654.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "pms",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "ipa",
+					"jsonFile" : "directory-ipa-Debug-9f7a5c540d2e53582fd4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ipa",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "p3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "ipa::@3b83b585dd8934024d43",
+					"jsonFile" : "target-ipa-Debug-bb828541dd05f69d8ea4.json",
+					"name" : "ipa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ipa-asan::@3b83b585dd8934024d43",
+					"jsonFile" : "target-ipa-asan-Debug-aae6e64c4f5709d6706e.json",
+					"name" : "ipa-asan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pms::@9f86c02a2e9724383ad8",
+					"jsonFile" : "target-pms-Debug-5da4612906ced935ac44.json",
+					"name" : "pms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pms-asan::@9f86c02a2e9724383ad8",
+					"jsonFile" : "target-pms-asan-Debug-80a37a1b5fdcd8f22fe8.json",
+					"name" : "pms-asan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pms-msan::@9f86c02a2e9724383ad8",
+					"jsonFile" : "target-pms-msan-Debug-6bfd49b4fb800f79f7f1.json",
+					"name" : "pms-msan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pms_static::@9f86c02a2e9724383ad8",
+					"jsonFile" : "target-pms_static-Debug-c024f23c05ae03db1d25.json",
+					"name" : "pms_static",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/gor_university/engr_151/project_3/pgroup-07/build",
+		"source" : "C:/gor_university/engr_151/project_3/pgroup-07"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,462 @@
+[
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\pms.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\math\\Vec.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\group\\Group.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\group\\Bicycle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\group\\Van.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\group\\Motorbike.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\management\\ParkingLot.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\management\\TicketManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\management\\SlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\management\\GroupManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\utils\\Utils.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\utils\\Logger.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms.dir\\utils\\CommonValue.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\pms.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\math\\Vec.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\group\\Group.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\group\\Bicycle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\group\\Van.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\group\\Motorbike.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\management\\ParkingLot.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\management\\TicketManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\management\\SlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\management\\GroupManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\utils\\Utils.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\utils\\Logger.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o pms\\CMakeFiles\\pms_static.dir\\utils\\CommonValue.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\pms.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\math\\Vec.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\group\\Group.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\group\\Bicycle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\group\\Van.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\group\\Motorbike.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\management\\ParkingLot.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\management\\TicketManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\management\\SlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\management\\GroupManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\utils\\Utils.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\utils\\Logger.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o pms\\CMakeFiles\\pms-asan.dir\\utils\\CommonValue.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\pms.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\pms.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\math\\Vec.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\math\\Vec.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\group\\Group.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Group.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\group\\Bicycle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Bicycle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\group\\Van.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Van.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\group\\Motorbike.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\group\\Motorbike.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\management\\ParkingLot.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\ParkingLot.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\management\\TicketManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\TicketManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\management\\SlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\SlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\management\\GroupManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\management\\GroupManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\utils\\Utils.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\utils\\Logger.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Logger.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=memory -fno-omit-frame-pointer -fsanitize-memory-track-origins -fPIE -std=gnu++17 -o pms\\CMakeFiles\\pms-msan.dir\\utils\\CommonValue.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\CommonValue.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\ipa.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\ipa.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\ipa.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\Figure.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Figure.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Figure.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\ColoredFigure.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\ColoredFigure.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\ColoredFigure.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\Rectangle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Rectangle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Rectangle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\Quadrilateral.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Quadrilateral.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Quadrilateral.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\Circle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Circle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Circle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\Triangle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Triangle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Triangle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\Line.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Line.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Line.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\SemiCircle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\SemiCircle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\SemiCircle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\figure\\Trajectory.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Trajectory.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Trajectory.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\group\\Spacecraft.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Spacecraft.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Spacecraft.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\group\\Teleporter.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Teleporter.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Teleporter.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\group\\UFO.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\UFO.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\UFO.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\group\\Car.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Car.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Car.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\group\\Group.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Group.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Group.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\management\\ParkingLot.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\ParkingLot.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\ParkingLot.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\management\\PlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\PlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\PlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\management\\GroupManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\GroupManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\GroupManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\management\\SlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\SlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\SlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -std=gnu++17 -o ipa\\CMakeFiles\\ipa.dir\\__\\pms\\utils\\Utils.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\ipa.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\ipa.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\ipa.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\Figure.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Figure.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Figure.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\ColoredFigure.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\ColoredFigure.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\ColoredFigure.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\Rectangle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Rectangle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Rectangle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\Quadrilateral.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Quadrilateral.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Quadrilateral.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\Circle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Circle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Circle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\Triangle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Triangle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Triangle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\Line.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Line.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Line.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\SemiCircle.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\SemiCircle.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\SemiCircle.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\figure\\Trajectory.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Trajectory.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\figure\\Trajectory.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\group\\Spacecraft.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Spacecraft.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Spacecraft.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\group\\Teleporter.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Teleporter.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Teleporter.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\group\\UFO.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\UFO.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\UFO.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\group\\Car.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Car.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Car.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\group\\Group.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Group.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\group\\Group.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\management\\ParkingLot.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\ParkingLot.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\ParkingLot.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\management\\PlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\PlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\PlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\management\\GroupManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\GroupManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\GroupManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\management\\SlotManager.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\SlotManager.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\ipa\\management\\SlotManager.cpp"
+},
+{
+  "directory": "C:/gor_university/engr_151/project_3/pgroup-07/build",
+  "command": "clang++ -IC:/gor_university/engr_151/project_3/pgroup-07/include -pedantic -Wall -Wextra -Wvla -g -DNO_GUI -DDEBUG -g -fsanitize=address,leak,undefined,integer,bounds,float-divide-by-zero,float-cast-overflow -fno-omit-frame-pointer -fno-sanitize-recover=all -std=gnu++17 -o ipa\\CMakeFiles\\ipa-asan.dir\\__\\pms\\utils\\Utils.cpp.obj -c C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp",
+  "file": "C:\\gor_university\\engr_151\\project_3\\pgroup-07\\pms\\utils\\Utils.cpp"
+}
+]

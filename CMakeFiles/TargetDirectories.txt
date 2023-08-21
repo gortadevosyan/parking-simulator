@@ -1,0 +1,3 @@
+C:/gor_university/engr_151/project_3/pgroup-07/CMakeFiles/ipa.dir
+C:/gor_university/engr_151/project_3/pgroup-07/CMakeFiles/edit_cache.dir
+C:/gor_university/engr_151/project_3/pgroup-07/CMakeFiles/rebuild_cache.dir

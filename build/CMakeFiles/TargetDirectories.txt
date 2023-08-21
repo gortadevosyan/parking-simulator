@@ -1,0 +1,12 @@
+C:/gor_university/engr_151/project_3/pgroup-07/build/CMakeFiles/edit_cache.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/CMakeFiles/rebuild_cache.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/pms/CMakeFiles/pms.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/pms/CMakeFiles/pms_static.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/pms/CMakeFiles/pms-asan.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/pms/CMakeFiles/pms-msan.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/pms/CMakeFiles/edit_cache.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/pms/CMakeFiles/rebuild_cache.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/ipa/CMakeFiles/ipa.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/ipa/CMakeFiles/ipa-asan.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/ipa/CMakeFiles/edit_cache.dir
+C:/gor_university/engr_151/project_3/pgroup-07/build/ipa/CMakeFiles/rebuild_cache.dir
