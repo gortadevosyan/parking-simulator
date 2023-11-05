@@ -11,10 +11,10 @@
 
 | Author         | Student id                                                  |
 |----------------|-------------------------------------------------------------|
-| GOR TADEVOSYAN | [522370990013](https://focs.ji.sjtu.edu.cn/git/hezhewen)    |
-| Hongzheng Hu   | [522370910200](https://focs.ji.sjtu.edu.cn/git/huhongzheng) |
-| Jiayue Huang   | [521150910060](https://focs.ji.sjtu.edu.cn/git/huangjiayue) |
-| Zhewen He      | [522370910184](https://focs.ji.sjtu.edu.cn/git/hezhewen)    |
+| GOR TADEVOSYAN | (https://focs.ji.sjtu.edu.cn/git/gortadevosyan)    |
+| Hongzheng Hu   | (https://focs.ji.sjtu.edu.cn/git/huhongzheng) |
+| Jiayue Huang   | (https://focs.ji.sjtu.edu.cn/git/huangjiayue) |
+| Zhewen He      | (https://focs.ji.sjtu.edu.cn/git/hezhewen)    |
 
 ## Description
 
